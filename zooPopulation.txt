@@ -1,0 +1,12 @@
+Zoo Population Report
+=====================
+
+Lion: Simba, Age: 5, Sex: male, Color: golden, Weight: 200 lbs, Birthplace: Africa, Birth Season: summer, Birth Date: 2020-06-01
+Lion: Nala, Age: 4, Sex: female, Color: golden, Weight: 190 lbs, Birthplace: Africa, Birth Season: spring, Birth Date: 2021-03-01
+Tiger: ShereKhan, Age: 6, Sex: male, Color: orange, Weight: 250 lbs, Birthplace: India, Birth Season: fall, Birth Date: 2019-09-01
+Bear: Baloo, Age: 7, Sex: male, Color: brown, Weight: 400 lbs, Birthplace: Himalayas, Birth Season: winter, Birth Date: 2018-12-01
+Hyena: Kamari, Age: 3, Sex: female, Color: tan, Weight: 70 lbs, Birthplace: FriguiaPark, Birth Season: spring, Birth Date: 2022-03-01
+Hyena: Zuri, Age: 2, Sex: female, Color: gray, Weight: 65 lbs, Birthplace: Serengeti, Birth Season: fall, Birth Date: 2023-09-01
+Lion: MissingFields, Age: 5, Sex: male, Color: golden, Weight: 50 lbs, Birthplace: , Birth Season: summer, Birth Date: 2020-06-01
+
+Total Animals: 7

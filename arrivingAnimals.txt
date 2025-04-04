@@ -1,0 +1,4 @@
+hyena 4 female spring tan 70 FriguiaPark,Tunisia
+lion 2 male summer golden 180 Serengeti,Tanzania
+tiger 3 female fall orange 200 Sundarbans,India
+bear 1 male winter black 300 YellowstonePark,USA
